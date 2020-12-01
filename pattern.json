@@ -40,7 +40,7 @@
             "PP_16 350.png",
             "PP_16 351.png",
             "PP_16 555.png",
-            "PP_16 732.png",
+            {"name":"PP_16 732", "width": 1649, "height": 1649, "resolution": 300},
             "PP_16 999.png",
             "PP_17 211.png",
             "PP_17 212.png"
