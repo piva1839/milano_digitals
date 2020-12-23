@@ -11,7 +11,6 @@
             {"name":"PP_12 234.jpg", "width": 1300, "height": 1300, "resolution": 300},
             {"name":"PP_12 279.jpg", "width": 1000, "height": 1000, "resolution": 72},
             {"name":"PP_12 329.jpg", "width": 1300, "height": 1300, "resolution": 300},
-            {"name":"PP_12 333.jpg", "width": 1300, "height": 780, "resolution": 300},
             {"name":"PP_12 344.jpg", "width": 800, "height": 800, "resolution": 72},
             {"name":"PP_12 355.jpg", "width": 1300, "height": 1300, "resolution": 300},
             {"name":"PP_12 359.jpg", "width": 1300, "height": 1300, "resolution": 300},
@@ -32,22 +31,13 @@
             {"name":"PP_12 887.jpg", "width": 1300, "height": 1300, "resolution": 300},
             {"name":"PP_12 934.jpg", "width": 1300, "height": 1300, "resolution": 300},
             {"name":"PP_12 974.jpg", "width": 1300, "height": 1300, "resolution": 300},
-            {"name":"PP_12 999.jpg", "width": 2392, "height": 2160, "resolution": 300},
             {"name":"PP_14 221.png", "width": 796, "height": 796, "resolution": 120},
             {"name":"PP_16 123.png", "width": 1890, "height": 1890, "resolution": 300},
             {"name":"PP_16 332.png", "width": 3307, "height": 3166, "resolution": 300},
-            {"name":"PP_16 333.png", "width": 2362, "height": 1975, "resolution": 300},
             {"name":"PP_16 350.png", "width": 2362, "height": 2362, "resolution": 300},
-            {"name":"PP_16 351.png", "width": 1594, "height": 1339, "resolution": 300},
             {"name":"PP_16 555.png", "width": 1652, "height": 1652, "resolution": 300},
             {"name":"PP_16 732.png", "width": 1649, "height": 1649, "resolution": 300},
-            {"name":"PP_16 999.png", "width": 1575, "height": 1574, "resolution": 300},
-            {"name":"PP_17 001.jpg", "width": 1843, "height": 1382, "resolution": 72},
-            {"name":"PP_17 004.png", "width": 6260, "height": 10778, "resolution": 300},
-            {"name":"PP_17 006.jpg", "width": 2126, "height": 4016, "resolution": 300},
-            {"name":"PP_17 008.png", "width": 6260, "height": 10778, "resolution": 300},
-            {"name":"PP_17 009.png", "width": 6260, "height": 10778, "resolution": 300},
-            {"name":"PP_17 010.jpg", "width": 5279, "height": 4096, "resolution": 300}
+            {"name":"PP_16 999.png", "width": 1575, "height": 1574, "resolution": 300}
         ]
     }
 ]
