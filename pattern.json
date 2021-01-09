@@ -39,7 +39,15 @@
             {"name":"PP_16 732.png", "width": 1649, "height": 1649, "resolution": 300},
             {"name":"PP_16 999.png", "width": 1575, "height": 1574, "resolution": 300},
             {"name":"PP_17 111.png", "width": 1770, "height": 1770, "resolution": 300},
-            {"name":"PP_17 112.jpg", "width": 1072, "height": 1072, "resolution": 72}
+            {"name":"PP_17 211.jpg", "width": 1920, "height": 1920, "resolution": 72},
+            {"name":"PP_17 212.jpg", "width": 1400, "height": 1400, "resolution": 72},
+            {"name":"PP_17 213.jpg", "width": 2700, "height": 2700, "resolution": 72},
+            {"name":"PP_17 214.jpg", "width": 1920, "height": 1920, "resolution": 72},
+            {"name":"PP_17 215.jpg", "width": 1575, "height": 1575, "resolution": 200},
+            {"name":"PP_17 216.jpg", "width": 3189, "height": 3189, "resolution": 300},
+            {"name":"PP_17 217.jpg", "width": 2480, "height": 2480, "resolution": 300},
+            {"name":"PP_17 218.jpg", "width": 2598, "height": 2598, "resolution": 300},
+            {"name":"PP_17 219.jpg", "width": 5000, "height": 5000, "resolution": 300}
         ]
     }
 ]
